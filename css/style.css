@@ -2,6 +2,6 @@ a.spoiler:after {
     content: " close [-]";
 }
 
-a.collapsed:after {
+a.spoiler.collapsed:after {
     content: " open [+]";
 }
